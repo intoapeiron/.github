@@ -12,7 +12,7 @@
 
 APEIRON brings together projects with different purposes and technologies under one evolving foundation: from web applications and personal tools to infrastructure and embedded experiments.
 
-The goal is to build, understand, and improve systems over time — while keeping each project independently maintainable.
+The goal is to build, understand, and improve systems over time - while keeping each project independently maintainable.
 
 ### Ecosystem
 
